@@ -1,4 +1,4 @@
-# DATA SCIENCE COURSE — Python for Data Science 
+# Python for Data Science 
 
 Welcome! This repository is a hands-on, notebook-first learning path for anyone starting Python for Data Science. It contains interactive Jupyter Notebooks that walk you step-by-step through core Python concepts with explanations, runnable examples, and exercises so you can practice as you learn.
 
@@ -42,7 +42,5 @@ Learning tips
 - Recreate small tasks from memory after reading a notebook — then compare with the notebook to learn faster.
 - Combine concepts from different notebooks (for example, file handling + JSON + basic data processing) to create mini projects.
 
-Contributing
-Contributions are welcome. Open an issue to propose larger changes or submit a clear PR for fixes and improvements. If adding notebooks that require extra packages, note required packages/versions in the notebook header.
 
 If you found this repo helpful, please give it a star ⭐️.
